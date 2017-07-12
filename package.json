@@ -1,6 +1,6 @@
 {
   "name": "zendesk-js",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A JS client for interacting with the Zendesk API.",
   "main": "zendesk.js",
   "repository": {
