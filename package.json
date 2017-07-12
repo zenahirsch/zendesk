@@ -2,7 +2,7 @@
   "name": "zendesk",
   "version": "1.0.0",
   "description": "A node client for interacting with the Zendesk API.",
-  "main": "./dist/node-zendesk.js",
+  "main": "zendesk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
